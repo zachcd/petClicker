@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zachcd/petClicker/issues"
   },
-  "homepage": "https://github.com/zachcd/petClicker#readme"
+  "homepage": "https://github.com/zachcd/petClicker#readme",
+  "dependencies": {
+    "happyfuntimes": "^0.2.1"
+  }
 }
